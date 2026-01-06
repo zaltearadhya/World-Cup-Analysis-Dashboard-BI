@@ -75,6 +75,8 @@ This dataset enables **detailed performance analysis across players, teams, and 
    * Average Strike Rate
    * Match Count by Winner
    * Total Runs by Day (trend)
+<img width="1379" height="862" alt="Overview" src="https://github.com/user-attachments/assets/eadc8560-cbbb-44a3-93dc-cb25a26c6fbd" />
+
 
 2. **Batting Performance Page**
 
@@ -82,6 +84,8 @@ This dataset enables **detailed performance analysis across players, teams, and 
    * Interactive player tables
    * Strike rate vs total runs scatter chart
    * Team filters and match timeline
+<img width="1378" height="862" alt="Batting-Performance" src="https://github.com/user-attachments/assets/5693fe88-59f9-4eb2-8dcd-51e336e0f1c3" />
+
 
 3. **Bowling Performance Page**
 
@@ -89,6 +93,8 @@ This dataset enables **detailed performance analysis across players, teams, and 
    * Total balls and wickets by team
    * Bowler-wise wickets with dot balls
    * Match-level slicers
+<img width="1379" height="861" alt="Bowlling-Performance" src="https://github.com/user-attachments/assets/cb9bcd67-7441-49ed-a9a9-0f5dd5b6b664" />
+
 
 ### 🔹 Key KPIs
 
